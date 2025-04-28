@@ -1,4 +1,1 @@
-django
-gunicorn
-djangorestframework
-pillow
+
